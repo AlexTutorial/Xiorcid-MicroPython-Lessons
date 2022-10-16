@@ -21,4 +21,4 @@ while True:
     if flag:
         led.duty(512)
     else:
-        led.duty(10232w)
+        led.duty(10232)
